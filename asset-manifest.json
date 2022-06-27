@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drum-machine/static/css/main.9a7f5551.css",
+    "main.js": "/drum-machine/static/js/main.520fcb4e.js",
+    "static/media/star-ko.wav": "/drum-machine/static/media/star-ko.370faef8e06538942d50.wav",
+    "static/media/mission-complete.wav": "/drum-machine/static/media/mission-complete.90fc9928d348b15ab63a.wav",
+    "static/media/hiyah.wav": "/drum-machine/static/media/hiyah.9b8e9cf4320a78cc7024.wav",
+    "static/media/torya.wav": "/drum-machine/static/media/torya.dca393c0a264f4d0f037.wav",
+    "static/media/spot-dodge.wav": "/drum-machine/static/media/spot-dodge.d87bb8957b292c3c85a7.wav",
+    "static/media/tei.wav": "/drum-machine/static/media/tei.446aa09b2b73d54175dd.wav",
+    "static/media/air-dodge.wav": "/drum-machine/static/media/air-dodge.f26713e3e39b0b5efab0.wav",
+    "static/media/laser.wav": "/drum-machine/static/media/laser.8bb647923c6c930029f2.wav",
+    "static/media/shine.wav": "/drum-machine/static/media/shine.4060d1c9baf3be5a180d.wav",
+    "index.html": "/drum-machine/index.html",
+    "main.9a7f5551.css.map": "/drum-machine/static/css/main.9a7f5551.css.map",
+    "main.520fcb4e.js.map": "/drum-machine/static/js/main.520fcb4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a7f5551.css",
+    "static/js/main.520fcb4e.js"
+  ]
+}
